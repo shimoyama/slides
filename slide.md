@@ -19,8 +19,9 @@
 
 >>>
 
-- 2017年 クロスメディアエキスパート（JAGAT）取得<br>
-- 2018年 テクニカルライター3級（TC協会）取得<br>
+- 2017年 クロスメディアエキスパート取得<br>
+- 2017年 ネットマーケティング検定取得<br>
+- 2018年 テクニカルライター3級取得<br>
 - 2019年 ウェブ解析士取得
 
 ウェブ全般の戦略立案から実用文書のことまで
@@ -48,7 +49,7 @@
 <dt>私たちの強み</dt>
 <dd>
 <ul>
-<li>創業以来マニュアル制作一筋<br>取扱説明書に関しては累計制作本数は10,000本以上  </li><!-- .element: class="fragment" -->
+<li>創業以来マニュアル制作一筋<br>取扱説明書に関しては累計制作本数は<br>10,000本以上  </li><!-- .element: class="fragment" -->
 <li>ゆえに培ったノウハウの数々</li><!-- .element: class="fragment" -->
 <li>マニュアル制作に明るい人材が豊富</li><!-- .element: class="fragment" -->
 </ul>
@@ -64,7 +65,7 @@
 <ul>
 <li>マニュアル・トリセツのお困り事の解決</li><!-- .element: class="fragment" -->
 <li>マニュアル制作のトリセツの運営</li><!-- .element: class="fragment" -->
-<li>ウェブ施策全般　マーケティングからサイトの制作・改善コンサルティングなど</li><!-- .element: class="fragment" -->
+<li>ウェブ施策全般<br>マーケティングからサイトの制作・<br>改善コンサルティングなど</li><!-- .element: class="fragment" -->
 </ul>
 </dd>
 </dl>
@@ -90,8 +91,8 @@ Note:
 ---
 
 ### 第二部 ウェブマニュアルの実践編
-- WordPressを使ったマニュアルページ作成のデモンストレーション<!-- .element: class="fragment" -->
-- ウェブマニュアルの制作方法<!-- .element: class="fragment" -->
+- WordPressを使ったマニュアルページ作成<br>デモンストレーション<!-- .element: class="fragment" -->
+- ウェブマニュアルの制作方法について<!-- .element: class="fragment" -->
 - 効果のあるウェブマニュアルにするには？<!-- .element: class="fragment" -->
 
 Note:
@@ -157,7 +158,7 @@ Note:
 
 ---
 
-### ソフトウェアの世界でマニュアルはなんと呼ばれているか？
+ソフトウェアの世界でマニュアルはなんと呼ばれているか？
 
 ---
 
@@ -197,7 +198,7 @@ Note:
 
 ---
 
-アプリケーションやサービスだけかというとそうでもなく
+アプリケーションやサービスだけかというと<br>そうでもなく
 
 ---
 
@@ -213,9 +214,9 @@ Note:
 
 ---
 
-### ウェブマニュアルと聞いてもピンとこなくても当然
+### ウェブマニュアルと聞いて<br>ピンとこなくても当然
 
-ウェブではほとんどそのような言われ方はしていない
+ウェブではほとんどそのようには呼ばれていない
 
 ---
 
@@ -235,14 +236,14 @@ Note:
 
 ---
 
-## ヘルプやサポート、ガイドのページを作成するには？
+ヘルプやサポート、ユーザーガイドのページを<br>作成するには？
 
 
 <div style="text-align:center;font-size:100px;">Knowledge base</div><!-- .element: class="fragment" -->
 
 >>>
 
-> ナレッジベース（知識ベース）とは、「業務に関する知見」を一箇所にまとめたデータベースのこと。インターネットには接続せずに、社内だけで共有される、社外秘のノウハウの塊。
+> ナレッジベース（知識ベース）とは、「業務に関する知見」を一箇所にまとめたデータベースのこと。<br>インターネットには接続せずに、社内だけで共有される、社外秘のノウハウの塊。
 
 >>>
 
@@ -257,15 +258,15 @@ Note:
 
 ---
 
-Knowledge baseを社外に展開するとヘルプセンターになり、サポートセンターになり、ユーザーガイドになる
+Knowledge baseを社外に展開すると<br>ヘルプセンター・サポートセンター・<br>ユーザーガイドになる
 
 ---
 
 ### Knowledge baseのサービス
 
-* [Knowledge Base Software \| Help Scout](https://www.helpscout.com/knowledge-base/)
-* [Zendesk Guideでセルフサービス＆ナレッジベース](https://www.zendesk.co.jp/guide/)
-* [Confluence \- 共同でより多くの成果を収める \| Atlassian](https://www.atlassian.com/ja/software/confluence)
+* [Help Scout](https://www.helpscout.com/knowledge-base/)
+* [Zendesk Guide](https://www.zendesk.co.jp/guide/)
+* [Confluence](https://www.atlassian.com/ja/software/confluence)
 
 ---
 
@@ -302,7 +303,7 @@ WPを使っている人は？
 * 豊富なテーマ<!-- .element: class="fragment" -->
 * 豊富なプラグイン<!-- .element: class="fragment" -->
 * 豊富な事例<!-- .element: class="fragment" -->
-* 無料（正しくはオープンソース・ソフトウェア）<!-- .element: class="fragment" -->
+* 無料（オープンソース・ソフトウェア）<!-- .element: class="fragment" -->
 * コミュニティが大きい<!-- .element: class="fragment" -->
 
 ---
@@ -439,8 +440,8 @@ iPhoneにアプリを入れますが、そういうものです
 
 <!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
-掲載すべきものがワード等でできあがっていて、<br>
-どのように公開していくかというところでメディアやプラットフォームを選択する
+掲載すべきものがワード等で出来上がっていて<br>
+どのように公開していくかというところで<br>メディアやプラットフォームを選択する
 
 ---
 
@@ -497,7 +498,7 @@ iPhoneにアプリを入れますが、そういうものです
 ### 表現設計に則る
 
 * 視覚的印象のためのデザイン表現
-* 基本フォーマット（文書を構成する部品のレイアウト）
+* 基本フォーマット<br>（文書を構成する部品のレイアウト）
 	* 見出し
 	* リード
 	* 本文
@@ -510,7 +511,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 <!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
-### 構造化に配慮して文書（情報）を設計する
+### 構造化に配慮して<br>文書（情報）を設計する
 
 * 記載順序
 	* トピック指向
@@ -533,7 +534,7 @@ iPhoneにアプリを入れますが、そういうものです
 ### サイト全体の設計も重要
 
 製品ごとにマニュアルをPDFで掲載していたものをウェブに置き換えるだけでは不十分<br>
-根本にユーザーガイド、ヘルプセンター、サポートセンターのようなユーザーの困ったときの解決先を用意する<br>
+根本にユーザーガイド、ヘルプセンター、<br>サポートセンターのようなユーザーの困ったときの解決先を用意する<br>
 問い合わせやよくある質問なども
 
 
