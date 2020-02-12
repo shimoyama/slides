@@ -185,7 +185,7 @@ Note:
 
 ---
 
-![](/slides/img/adobe.png)
+<!-- .slide: data-background-iframe="https://helpx.adobe.com/jp/support.html" -->
 
 ---
 
