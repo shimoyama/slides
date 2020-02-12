@@ -189,12 +189,12 @@ Note:
 
 ---
 
-![](img/sakura.png)
+[![](img/sakura.png)](https://help.sakura.ad.jp/)
 
 
 ---
 
-![](img/mercari.png)
+[![](img/mercari.png)](https://www.mercari.com/jp/help_center/)
 
 ---
 
@@ -202,15 +202,15 @@ Note:
 
 ---
 
-![](img/dyson.png)
+[![](img/dyson.png)](https://www.dyson.co.jp/supporthome.aspx)
 
 ---
 
-![](img/sonytv.png)
+[![](img/sonytv.png)](https://helpguide.sony.net/tv/gjp2/v1/ja/index.html)
 
 ---
 
-![](img/iphone.png)
+[![](img/iphone.png)](https://support.apple.com/ja-jp/guide/iphone/welcome/ios)
 
 ---
 
