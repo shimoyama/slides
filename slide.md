@@ -225,7 +225,7 @@ Note:
 * マニュアルは「説明書」というモノを指す<!-- .element: class="fragment" -->
 * 「手動」の意味で混乱しがち<!-- .element: class="fragment" -->
 * 説明書だけでは不十分<!-- .element: class="fragment" -->
-* 本質はユーザーを助け、支援し、支えること<!-- .element: class="fragment" --> 
+* 本質はユーザーを助け、支援し、 導くこと <!-- .element: class="fragment" --> 
 
 
 Note:
@@ -233,6 +233,13 @@ Note:
 本当にユーザーの助けになっていますか？
 
 ここ非常に重要
+
+---
+
+* 手法とコンテンツは明確に分けて考える<!-- .element: class="fragment" -->
+* どうやって作るかは手法の話<!-- .element: class="fragment" -->
+* どうやって伝えるかはコンテンツの話<!-- .element: class="fragment" -->
+* コンテンツの話は重要なので後半に<!-- .element: class="fragment" -->
 
 ---
 
