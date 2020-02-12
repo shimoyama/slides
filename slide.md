@@ -1,4 +1,4 @@
-<!-- .slide: data-background="/img/pretty-heroic@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/pretty-heroic@3000x2000px.jpg" -->
 # 初めての<br>ウェブマニュアル
 
 ---
@@ -139,7 +139,7 @@ Note:
 
 <div style="text-align:center">
 
-![](/img/A40CAD60.jpg)
+![](/slides/img/A40CAD60.jpg)
 
 </div>
 
@@ -168,7 +168,7 @@ Note:
 
 <div style="text-align:center">
 
-![](/img/jama.png)
+![](/slides/img/jama.png)
 
 </div>
 
@@ -185,16 +185,16 @@ Note:
 
 ---
 
-![](/img/adobe.png)
+![](/slides/img/adobe.png)
 
 ---
 
-![](/img/sakura.png)
+![](/slides/img/sakura.png)
 
 
 ---
 
-![](/img/mercari.png)
+![](/slides/img/mercari.png)
 
 ---
 
@@ -202,15 +202,15 @@ Note:
 
 ---
 
-![](/img/dyson.png)
+![](/slides/img/dyson.png)
 
 ---
 
-![](/img/sonytv.png)
+![](/slides/img/sonytv.png)
 
 ---
 
-![](/img/iphone.png)
+![](/slides/img/iphone.png)
 
 ---
 
@@ -270,18 +270,18 @@ Knowledge baseを社外に展開するとヘルプセンターになり、サポ
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 ## WordPress（ワードプレス）について
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
-![logo](/img/WordPress-logotype-standard-white.png)
+![logo](/slides/img/WordPress-logotype-standard-white.png)
 
 >>>
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 * サーバーにインストールして<!-- .element: class="fragment" -->
 * ブラウザを使って操作する<!-- .element: class="fragment" -->
@@ -297,7 +297,7 @@ WPを使っている人は？
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 ### WordPress（ワードプレス）の特徴
 * 豊富なテーマ<!-- .element: class="fragment" -->
@@ -308,7 +308,7 @@ WPを使っている人は？
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 ### ワードプレスでマニュアルをつくると何がいい？
 
@@ -318,13 +318,13 @@ WPを使っている人は？
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 ## WordPressのプラグイン
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 プラグインとは<br>
 機能を拡張する小さなソフトウェアのこと<br>
@@ -336,7 +336,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 <div style="font-size:30px;width:120%;margin-left:-80px">
 
@@ -353,7 +353,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/indecated-noise@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/indecated-noise@3000x2000px.jpg" -->
 
 
 <div style="font-size:30px;width:120%;margin-left:-80px">
@@ -371,13 +371,13 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 ## デモンストレーション
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 
 
@@ -385,9 +385,9 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
-![](/img/localbyflywheel.png)
+![](/slides/img/localbyflywheel.png)
 
 
 >>>
@@ -401,25 +401,25 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 ### つくりたいのはこんなページ
 
 <div style="text-align:center">
 
-![](/img/pagelayout.jpg)
+![](/slides/img/pagelayout.jpg)
 
 </div>
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 ### それでは始めます！
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 
 それらしいウェブマニュアルはできました<br>
@@ -427,7 +427,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 ### 本来の作り方
 
@@ -438,14 +438,14 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 掲載すべきものがワード等でできあがっていて、<br>
 どのように公開していくかというところでメディアやプラットフォームを選択する
 
 ---
 
-<!-- .slide: data-background="/img/new-collaboration@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/new-collaboration@3000x2000px.jpg" -->
 
 ### WordPress以外の選択肢
 
@@ -456,7 +456,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ## 効果的なマニュアルにするには
 
@@ -467,7 +467,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ### 読みやすく書く
 
@@ -482,7 +482,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ### 読み手のことを考えて書く
 
@@ -493,7 +493,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ### 表現設計に則る
 
@@ -509,7 +509,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ### 構造化に配慮して文書（情報）を設計する
 
@@ -520,7 +520,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ### 文章だけで伝わりますか？
 
@@ -529,7 +529,7 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 ### サイト全体の設計も重要
 
@@ -540,18 +540,18 @@ iPhoneにアプリを入れますが、そういうものです
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 <div style="text-align:center;font-size:60px;">サイトの構築から<br>テクニカルライティングまで</div>
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 <div style="text-align:center">ご相談はお気軽に</div>
 
 ---
 
-<!-- .slide: data-background="/img/fickle-green@3000x2000px.jpg" -->
+<!-- .slide: data-background="/slides/img/fickle-green@3000x2000px.jpg" -->
 
 <div style="text-align:center">ご清聴ありがとうございました。</div>
