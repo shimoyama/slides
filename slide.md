@@ -1,4 +1,3 @@
-<!-- .slide: data-background="/slides/img/pretty-heroic@3000x2000px.jpg" -->
 # 初めての<br>ウェブマニュアル
 
 ---
